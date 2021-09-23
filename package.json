@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Initialize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonycodesnow/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonycodesnow/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Tonycodesnow/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  }
+}
