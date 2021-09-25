@@ -25,7 +25,7 @@ return inquirer.prompt([
         if (nameInput) {
           return true;
         } else {
-          
+          console.log('Please enter your GitHub username!');
           return false;
         }
       }
@@ -40,13 +40,7 @@ return inquirer.prompt([
       type: 'input',
       name: 'about',
       message: 'Provide some information about yourself:',
-      when: ({ confirmAbout }) => {
-        if (confirmAbout) {
-          return true;
-        } else {
-          return false;
-        }
-      }
+      when: ({ confirmAbout }) => confirmAbout
     }
   ]);
 };
@@ -59,7 +53,7 @@ const promptProject = portfolioData => {
   `);
   
   // If there's no 'projects' array property, create one
-  if (!portfolioData.projects)  {
+  if (!portfolioData.projects) {
   portfolioData.projects = [];
   }
   return inquirer.prompt([
