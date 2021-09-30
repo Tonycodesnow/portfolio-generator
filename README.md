@@ -5,18 +5,20 @@
   ## Descriptions
   Using Node to dynamically generate a portfolio after the users input.
   
+
   ## Table of Contents
   - [Description](#description)
   - [GitHub](#github)
   - [Usage](#usage)
   - [Installation](#installation)
-  
-  
   - [License](#license)
+  
+  
   
   ## GitHub
   https://github.com/Tonycodesnow/portfolio-generator
   
+<p align="center"><img src="./utils/Pix.png" width="70%"></p>
   
   
   ## Usage
