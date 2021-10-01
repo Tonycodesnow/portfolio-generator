@@ -16,7 +16,7 @@
   
   
   ## GitHub
-  https://github.com/Tonycodesnow/portfolio-generator
+  https://tonycodesnow.github.io/portfolio-generator/
   
 <p align="center"><img src="./utils/Pix.png" width="70%"></p>
   
