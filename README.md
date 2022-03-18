@@ -24,7 +24,7 @@
 
   
   ## Installation
-  Command-line, Npm, the Node.js standard library, Inquirer, & a Ide like Atom or VScode. 
+  Command-line, Npm, the Node.js standard library, Inquirer, & a IDE like Atom or VScode. 
   
   ## License 
   This project is covered under the mit [License](https://choosealicense.com/licenses/mit)
