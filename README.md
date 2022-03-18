@@ -36,4 +36,4 @@
   This project is covered under the mit [License](https://choosealicense.com/licenses/mit)
   
   
-  Find me on GitHub [https://github.com/Tonycodesnow/portfolio-generator](https://github.com/https://github.com/Tonycodesnow/portfolio-generator)  or E-mail me: Huertinez.sales@outlook.com
+  Find me on GitHub [https://github.com/Tonycodesnow/portfolio-generator](https://github.com/https://github.com/Tonycodesnow/portfolio-generator)  or E-mail me: toni.huertinez@gmail.com

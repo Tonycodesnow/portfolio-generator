@@ -28,7 +28,7 @@ const generateProjects = projectsArr => {
                         ${languages.map(language => language).join(',')}
                     </h5> 
                 <p>${description}</p>
-                
+
                 <a href="${link}" class="btn"><i class="fab fa-github mr-2"></i>View Project on GitHub</a>
                 </div>
         `;

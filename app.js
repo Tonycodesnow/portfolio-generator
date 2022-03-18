@@ -58,7 +58,8 @@ const promptProject = portfolioData => {
     portfolioData.projects = [];
   }
 
-  return inquirer.prompt([{
+  return inquirer
+    .prompt([{
         type: 'input',
         name: 'name',
         message: 'What is the name of your project? (Required)',
@@ -116,7 +117,6 @@ const promptProject = portfolioData => {
         default: false
       }
     ])
-
     .then(projectData => {
       portfolioData.projects.push(projectData);
       if (projectData.confirmAddProject) {
